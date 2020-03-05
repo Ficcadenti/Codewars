@@ -14,7 +14,6 @@ public class Vowels
 				vowelsCount++;
 			}
 		}
-		// your code here
 		return vowelsCount;
 	}
 
