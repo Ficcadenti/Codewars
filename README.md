@@ -12,3 +12,4 @@ Le soluzioni al mio Codewars
 6. 7kyu - [Beginner Series #3 Sum of Numbers](https://github.com/Ficcadenti/Codewars/blob/master/Beginner%20Series%20%233%20Sum%20of%20Numbers/src/it/raffo/codewars/Sum.java)
 7. 4kyu - [Matrix Determinant](https://github.com/Ficcadenti/Codewars/blob/master/Matrix%20Determinant/src/it/raffo/codewars/Matrix.java)
 8. 7kyu - [Easy Line](https://github.com/Ficcadenti/Codewars/blob/master/Easy%20Line/src/it/raffo/codewars/Easyline.java)
+9. 7kyu - [Vowel Count]()
