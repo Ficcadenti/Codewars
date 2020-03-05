@@ -1,5 +1,5 @@
 # Codewars
-Le soluzioni al mio codewars
+Le soluzioni al mio Codewars
 
 # Il mio rank attuale
-https://www.codewars.com/users/Ficcadenti/badges/large
+[![CodeWars](https://www.codewars.com/users/Ficcadenti/badges/large)](https://www.codewars.com/users/Ficcadenti) 
