@@ -13,4 +13,4 @@ Le soluzioni al mio Codewars
 7.  4kyu - [Matrix Determinant](https://github.com/Ficcadenti/Codewars/blob/master/Matrix%20Determinant/src/it/raffo/codewars/Matrix.java)
 8.  7kyu - [Easy Line](https://github.com/Ficcadenti/Codewars/blob/master/Easy%20Line/src/it/raffo/codewars/Easyline.java)
 9.  7kyu - [Vowel Count](https://github.com/Ficcadenti/Codewars/blob/master/Vowel%20Count/src/it/raffo/codewars/Vowels.java)
-10. 6kyu - [Roman Numerals Encoder]()
+10. 6kyu - [Roman Numerals Encoder](https://github.com/Ficcadenti/Codewars/blob/master/Roman%20Numerals%20Encoder/src/it/raffo/codewars/RomanNumeralsEncoder.java)
