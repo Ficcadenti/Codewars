@@ -8,4 +8,4 @@ Le soluzioni al mio Codewars
 2. 8kyu - [Multiply](https://github.com/Ficcadenti/Codewars/blob/master/Multiply/src/it/raffo/codewars/Multiply.java)
 3. 6hyu - [Your order, please](https://github.com/Ficcadenti/Codewars/blob/master/Your%20order%2C%20please/src/it/raffo/codewars/YourOrderPlease.java)
 4. 7kyu - [Is this a triangle](https://github.com/Ficcadenti/Codewars/blob/master/Is%20this%20a%20triangle/src/it/raffo/codewars/TriangleTester.java)
-5. 6kyu - [Sum of Digits, Digital Root]()
+5. 6kyu - [Sum of Digits, Digital Root](https://github.com/Ficcadenti/Codewars/blob/master/Sum%20of%20Digits%2C%20Digital%20Root/src/it/raffo/codewars/DRoot.java)
