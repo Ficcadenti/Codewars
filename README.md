@@ -16,3 +16,4 @@ Le soluzioni al mio Codewars
 | 8 | 7 | [Easy Line](https://www.codewars.com/kata/56e7d40129035aed6c000632) | [Easy Line](https://github.com/Ficcadenti/Codewars/blob/master/Easy%20Line/src/it/raffo/codewars/Easyline.java) |
 | 9 | 7 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Vowel Count](https://github.com/Ficcadenti/Codewars/blob/master/Vowel%20Count/src/it/raffo/codewars/Vowels.java) |
 | 10 | 6 | [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b) | [Roman Numerals Encoder](https://github.com/Ficcadenti/Codewars/blob/master/Roman%20Numerals%20Encoder/src/it/raffo/codewars/RomanNumeralsEncoder.java) |
+| 11 | 3 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | [Make a spiral](https://github.com/Ficcadenti/Codewars/blob/master/Make%20a%20spiral/src/it/raffo/codewars/Spiralizor.java) |
