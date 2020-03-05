@@ -5,21 +5,6 @@ import java.math.BigInteger;
 public class Easyline
 {
 
-	private static BigInteger choose(int n, int p)
-	{
-		BigInteger ret = BigInteger.ONE;
-		for (int i = 0; i < p; i++)
-		{
-			ret = ret.multiply(BigInteger.valueOf(n - i)).divide(BigInteger.valueOf(i + 1));
-		}
-		return ret;
-	}
-
-	public static BigInteger easyLine2(int n)
-	{
-		return choose(2 * n, n);
-	}
-
 	public static BigInteger easyLine(int n)
 	{
 		System.out.println(n);
