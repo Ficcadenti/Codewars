@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns="http://model.server.microprofile.architecture.sogei.it" targetNamespace="http://model.server.microprofile.architecture.sogei.it" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="CorrispettivoIdIn">
+		<xs:annotation>
+			<xs:documentation>LotterieCorrispettivi CorrispettivoIdIn</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="dtEmissione" type="xs:dateTime" minOccurs="1"/>
+				<xs:element name="idCassa" type="xs:string" minOccurs="0"/>
+				<xs:element name="pIva" type="xs:string" minOccurs="1"/>
+				<xs:element name="personId" type="xs:string" minOccurs="1"/>
+				<xs:element name="numScontr" type="xs:string" minOccurs="0"/>
+				<xs:element name="matricolaRt" type="xs:string" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
