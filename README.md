@@ -21,3 +21,4 @@ Java,Python,JavaScript,Php,SQL,Bash
 | 12 | Java | 5 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms](https://github.com/Ficcadenti/Codewars/blob/master/Java/Isograms/src/it/raffo/codewar/isogram.java) |
 | 12 | Java | 5 | [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [int32 to IPv4](https://github.com/Ficcadenti/Codewars/blob/master/Java/int32%20to%20IPv4/src/it/raffo/codewars/Kata.java) |
 
+| 12 | Python | 4 | [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [Most frequently used words in a text](https://github.com/Ficcadenti/Codewars/blob/master/Java/int32%20to%20IPv4/src/it/raffo/codewars/Kata.java) |
